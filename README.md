@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src="https://i.imgur.com/FPJlMfG.png" />
 
-<!--
-**BiancaSCampos/BiancaSCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+### 🧶 Main Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript / TypeScript;
+- React Native;
+- ReactJS;
+
+<br/>
+<br/>
+
+<h2 align="center"> ⭐ GitHub Stats  ⭐</h2>
+
+<div align=center >
+
+<br/>
+<br/>
+
+  <img  height="200em"  src="https://github-readme-stats.vercel.app/api?username=BiancaSCampos&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaSCampos&show_icons=true&theme=dracula&hide=java"/>
+
+  <br/>
+  
+  <a href="https://github.com/BiancaSCampos"><img width="810em" alt="Bianca's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BiancaSCampos&custom_title=BiancaSCampos's%20Contribution%20Graph&theme=dracula" />
+
+</div>
