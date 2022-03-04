@@ -23,6 +23,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaSCampos&show_icons=true&theme=dracula&hide=java"/>
 
   <br/>
+  <br/>
+  <br/>
   
  <img width="810em" alt="Bianca's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BiancaSCampos&custom_title=BiancaSCampos's%20Contribution%20Graph&theme=dracula" />
 
